@@ -1,1 +1,6 @@
 ESSE ARQUIVO CONTEM ARQUIVOS SECUNDARIOS DE GIT 
+
+
+alteração 1
+
+alteração 2
