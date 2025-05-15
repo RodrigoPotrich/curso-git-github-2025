@@ -1,4 +1,3 @@
-
 ls -> lista arquivos
 
 cd -> move entre diretórios
@@ -11,6 +10,3 @@ rm -> remove arquivo ou diretório
 
 rm -rf -> remove de forma recursiva e forçada todos os diretórios
 
-
-
-huehuhue
